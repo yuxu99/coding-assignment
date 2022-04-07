@@ -28,4 +28,5 @@ print(len(students_list))
 print(students_list[1])
 ## (2)dictioanaries
 students_dic = {'Michael':101, 'Bob':102, 'Tracy':103}
-students_dic = ['Michael']
+print(students_dic['Michael'])
+
