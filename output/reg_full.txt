@@ -1,0 +1,16 @@
+	(1)	(2)
+VARIABLES	life expectancy	life expectancy
+		
+lngdp_percapi	0.0364***	0.0364***
+	(0.00358)	(0.00358)
+lnpop	0.00247**	0.00247**
+	(0.000997)	(0.000997)
+lnexpen_percapi	0.0329***	0.0329***
+	(0.00199)	(0.00199)
+Constant	3.714***	3.714***
+	(0.0235)	(0.0235)
+		
+Observations	3,146	3,146
+R-squared	0.639	0.639
+Robust standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		
