@@ -1,0 +1,12 @@
+pwd # declare the existing path
+cd "..." # change the directory into a desired location, while sole cd will renturn the initial file location
+ls # show the folder items in sequential order and the option -l can be more detailed
+pwd
+/Users/yuxu/Desktop/coding-assignment
+cd Desktop/coding-assignment
+ls -l
+-rw-r--r--@  1 yuxu  staff   19  3 21 14:44 README.md
+drwxr-xr-x  12 yuxu  staff  384  4  8 03:44 code
+drwxr-xr-x   5 yuxu  staff  160  4  7 17:17 data
+-rw-r--r--   1 yuxu  staff    0  4  8 03:47 operations on files.txt
+drwxr-xr-x   5 yuxu  staff  160  4  8 03:21 output
